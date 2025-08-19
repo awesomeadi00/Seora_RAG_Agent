@@ -46,7 +46,7 @@ sudo apt-get install tesseract-ocr
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd PitchLens
+   cd Seora_RAG_Agent
    ```
 
 2. **Create virtual environment**
