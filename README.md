@@ -81,14 +81,14 @@ sudo apt-get install tesseract-ocr
 4. **Get AI-powered insights** with professional analysis
 
 
-### Document Management
+### Extra Features
 - **Clear Database**: Removes all files, indexes, and chat history
 - **Reset Chat**: Clears conversation while preserving documents
 - **File Upload**: Supports multiple formats with intelligent processing
 
 ## 🔧 How It Works
 
-![Corrective RAG Pipeline](diagram.png)
+<img src="diagram.png" alt="Corrective RAG Pipeline" width="300" height="400" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 
 *The corrective RAG pipeline combines your documents with real-time web search for comprehensive insights.*
 
