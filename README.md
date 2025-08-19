@@ -89,7 +89,7 @@ sudo apt-get install tesseract-ocr
 ## 🔧 How It Works
 
 <p align="center">
-  <img src="diagram.png" alt="Corrective RAG Pipeline" width="300" height="400">
+  <img src="diagram.png" alt="Corrective RAG Pipeline" width="400" height="400">
 </p>
 
 *The corrective RAG pipeline combines your documents with real-time web search for comprehensive insights.*
