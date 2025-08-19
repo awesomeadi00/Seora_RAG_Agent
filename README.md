@@ -1,4 +1,4 @@
-# PitchLens: AI-Powered Startup Pitch Analyzer
+# Seora: AI-Powered Startup Pitch Analyzer
 
 A sophisticated AI application that analyzes startup pitch documents using advanced Corrective Multi-modal RAG technology with intelligent web search correction.
 
