@@ -148,4 +148,4 @@ sudo apt-get install tesseract-ocr
 
 ---
 
-**PitchLens** - Transform your startup documents into actionable business insights with AI-powered analysis.
+**Seora** - Transform your startup documents into actionable business insights with AI-powered analysis.
