@@ -1,8 +1,8 @@
-# Required
+# API Keys
 OPENAI_API_KEY=sk-...
-
-# Optional
 TAVILY_API_KEY=tvly-...
+
+# Variables
 MODEL_NAME=gpt-4o-mini
 EMBED_MODEL=text-embedding-3-small
 CHROMA_DIR=.chroma
